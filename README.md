@@ -4,6 +4,9 @@ This repo contains all of the templates, front-end resources, and a MySQL databa
 
 You can find out more about Craft at [craftcms.com](https://craftcms.com/).
 
+![HappyLager](https://raw.githubusercontent.com/flukkytom/DonnieCraft/master/web/assets/images/homepage.png)
+
+
 ## Features
 
 Happy Lager takes advantage of several Craft features:
