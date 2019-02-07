@@ -1,4 +1,4 @@
-# Craft demo site
+# Craft demo site - Flukkytom
 
 This repo contains all of the templates, front-end resources, and a MySQL database backup for “Happy Lager”, a Craft demo site.
 
@@ -107,6 +107,8 @@ If you want to install the site locally, follow these instructions:
 5. Create a new MySQL database called `happylager`, and import `happylager.sql` into it.
 
 6. Create a new virtual host with the hostname `happylager.test` that points to the `happylager.test/web/` folder.
+
+If you run into issues: https://github.com/flukkytom/DonnieCraft/wiki/403-and-404-Errors-while-Installing-Craft-CMS-3
 
 7. Edit your hosts file to resolve `happylager.test` to `127.0.0.1`, if necessary.
 
